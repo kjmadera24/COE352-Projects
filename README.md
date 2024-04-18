@@ -13,7 +13,7 @@ In this project, the goal was to make an SVD callable function and a user-input 
 - `Proj1_pt2.py`
 - `README.md`
 
-### Project 2: Finite Element Method for Heat Transfer ###
+### Project 2: Finite Element Method for the Heat Transfer Problem ###
 
 In this project, the goal was to solve the heat equation using the finite element method with forward and backward Euler time-stepping.
 
