@@ -1,5 +1,5 @@
 # COE352_Proj1
-This folder is for my COE352 project 1. The goal was to make an SVD callable function and a user-input function for calculating a spring-mass system!!
+This folder is for my COE352 project 1, the goal was to make an SVD callable function and a user-input function for calculating a spring-mass system!!
 
 ## Proj1_pt1.py
 
